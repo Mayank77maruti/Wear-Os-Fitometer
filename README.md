@@ -2,6 +2,9 @@ Fitometer is an AI-powered mobile and smartwatch application designed to revolut
 
 Demo
 
-
 https://github.com/user-attachments/assets/738252da-fd10-4ad9-8baf-988375decd81
+
+Pitch
+
+https://github.com/user-attachments/assets/d8b3f90f-c25f-4684-a13b-2961ce3a429e
 
