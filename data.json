@@ -1,0 +1,25 @@
+{
+    "user": {
+      "name": "Priyanshu Das",
+      "lastUpdated": "2025-01-15"
+    },
+    "stats": {
+      "caloriesBurned": 234,
+      "caloriesGoal": 500,
+      "weeklyProgress": [
+        { "day": "Mon", "calories": 300, "date": "2025-01-08" },
+        { "day": "Tue", "calories": 250, "date": "2025-01-09" },
+        { "day": "Wed", "calories": 400, "date": "2025-01-10" },
+        { "day": "Thu", "calories": 450, "date": "2025-01-11" },
+        { "day": "Fri", "calories": 320, "date": "2025-01-12" },
+        { "day": "Sat", "calories": 380, "date": "2025-01-13" },
+        { "day": "Sun", "calories": 450, "date": "2025-01-14" }
+      ]
+    },
+    "goals": {
+      "daily": 500,
+      "weekly": 3000
+    }
+  }
+  
+  
